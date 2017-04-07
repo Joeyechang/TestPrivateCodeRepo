@@ -1,0 +1,6 @@
+framework module TestPrivateCodeRepo {
+  umbrella header "TestPrivateCodeRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}

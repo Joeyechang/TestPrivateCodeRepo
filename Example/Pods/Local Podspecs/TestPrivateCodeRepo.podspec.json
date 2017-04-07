@@ -1,0 +1,22 @@
+{
+  "name": "TestPrivateCodeRepo",
+  "version": "0.1.0",
+  "summary": "A short description of TestPrivateCodeRepo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/changyou0730@gmail.com/TestPrivateCodeRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "changyou0730@gmail.com": "changyou0730@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/changyou0730@gmail.com/TestPrivateCodeRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPrivateCodeRepo/Classes/**/*"
+}
