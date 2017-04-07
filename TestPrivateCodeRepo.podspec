@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TestPrivateCodeRepo'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'cocoapods 私有仓库测试demo'
 
   s.description      = <<-DESC
